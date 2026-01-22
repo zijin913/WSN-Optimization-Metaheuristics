@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB implementation of the algorithms presented in the paper:
 
-**"Nature-Inspired Metaheuristics for Wireless Sensor Network Coverage Optimization"** *Zijin Zhou, Amir Parnianifard* Published in *2025 8th International Conference on Communication, Image and Signal Processing (CCISP)*.
+**"Nature-Inspired Metaheuristics for Wireless Sensor Network Coverage Optimization"** *Zijin Zhou, Amir Parnianifard* Published in *2025 10th International Conference on Communication, Image and Signal Processing (CCISP)*.
 
 [[Paper Link]](https://ieeexplore.ieee.org/document/11282074)
 
